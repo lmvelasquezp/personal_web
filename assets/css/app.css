@@ -849,6 +849,9 @@ form.signup button.btn {
   .form-group .form-control {
     display: block;
   }
+  .contact-info {
+    padding-left: 8em !important;
+  }
 }
 /*
  *	Panel
